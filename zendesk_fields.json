@@ -1,0 +1,8 @@
+{
+  "ticket_field": {
+    "type": "text",
+    "title": "Incident Details",
+    "description": "Details about the incident"
+  }
+}
+
