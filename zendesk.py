@@ -2,9 +2,9 @@ import requests
 import json
 
 # Zendesk API credentials
-ZENDESK_DOMAIN = "arcgate6418.zendesk.com"
-ZENDESK_API_TOKEN = "sxkVB6m7YICnGNIcQOGFExdtlsafyca0z7m6XWCc"
-ZENDESK_EMAIL = "veerpratap7773@gmail.com"
+ZENDESK_DOMAIN = ""
+ZENDESK_API_TOKEN = ""
+ZENDESK_EMAIL = ""
 
 # Load configuration from JSON file
 with open("zendesk_fields.json") as file:
