@@ -3,8 +3,8 @@ import qrcode
 # Define personal details
 contact_info = """
 Name: Veer pratap Singh Chouhan
-Phone: +91-7688972690
-Email: veerpratapsinghchouhan4@gmail.com
+Phone: 
+Email: 
 LinkedIn: www.linkedin.com/in/veer-pratap-singh-chouhan
 Github: https://github.com/Veeru-devop
 """
