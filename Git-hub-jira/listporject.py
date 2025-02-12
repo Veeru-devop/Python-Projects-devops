@@ -4,7 +4,6 @@ import json
 
 url = "https://veerpratap7773.atlassian.net/rest/api/3/project"
 
-API_TOKEN = "" 
 
 auth = HTTPBasicAuth("", API_TOKEN)
 

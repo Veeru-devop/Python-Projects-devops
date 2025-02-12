@@ -10,7 +10,6 @@ def Jira_integration():
 
     url = "https://veerpratap7773.atlassian.net/rest/api/3/issue"
 
-    API_TOKEN = "" 
 
     auth = HTTPBasicAuth("", API_TOKEN)
 
